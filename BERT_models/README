@@ -1,4 +1,4 @@
-We can download and store variants of BERT in this directory. And can directly call the downloaded model in embeddings.py
+We can download and store variants of BERT in this directory. The downloaded model can be called in embeddings.py
 Currently used model is: 'bert-base-nli-mean-tokens'
 
 Link to download variants of BERT model: 
