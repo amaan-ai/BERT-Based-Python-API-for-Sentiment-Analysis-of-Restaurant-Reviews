@@ -1,5 +1,10 @@
 # Restaurant-Reviews-Sentiment-Analysis
 
+## Table of contents
+* [Motivation](#Motivation)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## Motivation
 * Almost all restaurants have review system to take input from their customers about food and services. Here, a customer either writes about their experience or gives star ratings.
 * In general, textual data hold crucial information about customer experience, even causality for star ratings. 
