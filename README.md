@@ -1,13 +1,13 @@
 # Restaurant-Reviews-Sentiment-Analysis
-
+<a id="top"></a>
 ## Table of contents
 * <a href="#motivation">Motivation</a>
 * <a href="#technologies_&_framework">Technologies & Framework</a>
 * <a href="#illustrations">Illustrations</a>
 * <a href="#setup-&-installation">Setup & Installation</a>
 
-
-## Motivation <a id="motivation"></a>
+<a id="motivation"></a>
+## Motivation 
 
 * Almost all restaurants have review system to take input from their customers about food and services. Here, a customer either writes about their experience or gives star ratings.
 * In general, textual data hold crucial information about customer experience, even causality for star ratings. 
@@ -16,7 +16,8 @@ Currently, there isn't any system to validate the reviews i.e. whether a custome
 * This project nudges customers to write relevant reviews using **_Natural Language Processing_** and **_Machine Learning_** with end-to-end API call using _Flask_ & _Python_.
 * Furthermore, it classifies the reviews into _Positive_, _Negative_ & _Irrelevant_ reviews. Thus, helping restaurants to get insights on customer experience.
 
-## Technologies & Framework  <a id="technologies_&_framework"></a>
+<a id="technologies_&_framework"></a>
+## Technologies & Framework  
 This Project is created with:
 * Python3.7 
 * BERT
@@ -24,7 +25,8 @@ This Project is created with:
 * Flask
 * Postman
 
-## Illustrations  <a id="illustrations"></a>
+<a id="illustrations"></a>
+## Illustrations  
 * Below are the three images (Fig. 1, Fig. 2, Fig. 3) for three different categories of user input namely, Positive, Negative & Irrelevant review. 
 * The input data is taken in JSON format with _"input_data"_ as key.
 * Similarly the corresponding output is shown in JSON format with _"result"_ as key
@@ -50,7 +52,7 @@ This Project is created with:
 </p>
 
 
-
+<a id="setup-&-installation"></a>
 ## Setup & Installation (For Ubuntu)  <a id="setup-&-installation"></a>
 To run this project, you first need to clone this repository in your local system then follow the below mentioned steps:
 #### Step 1
@@ -107,4 +109,5 @@ To run this project, you first need to clone this repository in your local syste
 <br>
 
 ***Congratulations!*** All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
-    
+<br>
+<a href="#top">Go back to top</a>
