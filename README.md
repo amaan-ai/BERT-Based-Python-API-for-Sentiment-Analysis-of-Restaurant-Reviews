@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Motivation](#Motivation)
-* [Technologies](#Technologies)
+* [Technologies](#Technologies-&-Framework)
 * [Setup & Installation](#Setup-&-Installation)
 
 ## Motivation
