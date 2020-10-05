@@ -85,6 +85,7 @@ To run this project, you first need to clone this repository in your local syste
     (line 4) : sys.path.append(<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis)
   ```
 <br>
+
 #### Step 4
 * Go inside: <your_custom_path/Restaurant-Reviews-Sentiment-Analysis> directory and write the below mentioned command:
   ```
@@ -99,5 +100,6 @@ To run this project, you first need to clone this repository in your local syste
   ```
 * Refer Fig. 1, Fig. 2 and Fig. 3 for Input/Output JSON format
 
-Congratulations! All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
+<br>
+**Congratulations!** All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
     
