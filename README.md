@@ -54,9 +54,9 @@ To run this project, you first need to clone this repository in your local syste
 #### Step 1
 * Create a virtual environment using python3 and activate it: 
   ```
-  >> sudo apt-get install python3-venv
-  >> python3 -m venv proj_env
-  >> source proj_env/bin/activate
+  $ sudo apt-get install python3-venv
+  $ python3 -m venv proj_env
+  $ source proj_env/bin/activate
   ```
   (Here, 'proj_env' is custom, you can change it as per your choice)<br>
   You can visit this <a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/">link</a> for more information on virtual environment installation.
@@ -64,14 +64,14 @@ To run this project, you first need to clone this repository in your local syste
 #### Step 2
 * Install the sentence-transformers with pip:
   ```
-  >> pip install -U sentence-transformers
+  (proj_env)$ pip install -U sentence-transformers
   ```
   Alternatively, you can visit this <a href="https://pypi.org/project/sentence-transformers/">sentence-transformers</a> link for more information.
   
 #### Step 3
 * Export **PYTHONPATH** to the cloned directory address:
   ```
-  >> export PYTHONPATH="<path>/Restaurant-Reviews-Sentiment-Analysis"
+  (proj_env)$ export PYTHONPATH="<path>/Restaurant-Reviews-Sentiment-Analysis"
   ```
 * You need to change the PATH in two _.py_ files namely : lines (4, 19, 23, 24) of _main_file.py_ & line 4 of _server.py_ . I will update the _config file_ for changing PATH without any difficulty in the next update.  
   ```
@@ -84,3 +84,14 @@ To run this project, you first need to clone this repository in your local syste
   In server.py:
     (line 4) : sys.path.append(<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis)
   ```
+  
+### Step 4
+* Install **Postman** or any other API client for sending and receiving API calls.
+* Start Postman,go to POST request and paste the below mentioned URL:
+  ```
+  http://127.0.0.1:7000/validate
+  ```
+* Refer Fig. 1, Fig. 2 and Fig. 3 for Input/Output JSON format
+
+#### Congratulations! All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
+    
