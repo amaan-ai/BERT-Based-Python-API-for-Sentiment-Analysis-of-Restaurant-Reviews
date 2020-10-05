@@ -49,5 +49,27 @@ This Project is created with:
 
 
 
-## Setup & Installation
-To run this project, you need to clone this repository in your local system
+## Setup & Installation (For Ubuntu)
+To run this project, you first need to clone this repository in your local system then follow the below mentioned steps:
+#### Step 1
+* Create a virtual environment using python3 and activate it: 
+  ```
+  >> sudo apt-get install python3-venv
+  >> python3 -m venv proj_env
+  >> source proj_env/bin/activate
+  ```
+  (Here, 'proj_env' is custom, you can change it as per your choice)<br>
+  You can visit this <a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/">link</a> for more information on virtual environment installation.
+  
+#### Step 2
+* Install the sentence-transformers with pip:
+  ```
+  >> pip install -U sentence-transformers
+  ```
+  Alternatively, you can visit this <a href="https://pypi.org/project/sentence-transformers/">sentence-transformers</a> link for more information.
+  
+#### Step 3
+* Export **PYTHONPATH** to the cloned directory address:
+  ```
+  >> export PYTHONPATH="<path>/Restaurant-Reviews-Sentiment-Analysis"
+  ```
