@@ -29,7 +29,6 @@ This Project is created with:
 
 <p align="center">
   <img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Positive_review.png" alt="Positive Review Sample API"  width="700" height="400"/>
-  .caption[**Fig. 1:** Image caption]
   <br>
   <em>Fig. 1: Positive Review Sample API</em>
 </p>
