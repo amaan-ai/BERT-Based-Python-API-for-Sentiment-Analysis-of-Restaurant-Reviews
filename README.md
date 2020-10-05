@@ -110,4 +110,5 @@ To run this project, you first need to clone this repository in your local syste
 
 ***Congratulations!*** All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
 <br>
+<p>
 <a href="#top">Go back to top</a>
