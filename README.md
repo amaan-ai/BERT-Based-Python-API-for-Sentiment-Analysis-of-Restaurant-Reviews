@@ -73,7 +73,7 @@ To run this project, you first need to clone this repository in your local syste
   ```
   (proj_env)$ export PYTHONPATH="<path>/Restaurant-Reviews-Sentiment-Analysis"
   ```
-* You need to change the PATH in two _.py_ files namely : lines (4, 19, 23, 24) of _main_file.py_ & line 4 of _server.py_ . I will update the _config file_ for changing PATH without any difficulty in the next update.  
+* You need to change the PATH in two _.py_ files namely : _main_file.py_ &  _server.py_ . I will update the _config file_ for changing PATH without any difficulty in the next update.  
   ```
   In main_file.py:
     (line 4) : sys.path.append(<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis)
@@ -84,8 +84,14 @@ To run this project, you first need to clone this repository in your local syste
   In server.py:
     (line 4) : sys.path.append(<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis)
   ```
-  
-### Step 4
+<br>
+#### Step 4
+* Go inside: <your_custom_path/Restaurant-Reviews-Sentiment-Analysis> directory and write the below mentioned command:
+  ```
+  (proj_env)$ python server.py
+  ```
+
+#### Step 5
 * Install **Postman** or any other API client for sending and receiving API calls.
 * Start Postman,go to POST request and paste the below mentioned URL:
   ```
@@ -93,5 +99,5 @@ To run this project, you first need to clone this repository in your local syste
   ```
 * Refer Fig. 1, Fig. 2 and Fig. 3 for Input/Output JSON format
 
-#### Congratulations! All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
+Congratulations! All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
     
