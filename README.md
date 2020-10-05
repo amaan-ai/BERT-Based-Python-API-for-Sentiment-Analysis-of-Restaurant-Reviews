@@ -24,8 +24,12 @@ This Project is created with:
 
 ## Illustrations
 * Below are the three images for three different categories of user input namely, Positive, Negative & Irrelevant review. 
-* The input data is taken in JSON format with "input_data" as key.
-* Similarly the corresponding output is shown in JSON format with "result" as key
+* The input data is taken in JSON format with _"input_data"_ as key.
+* Similarly the corresponding output is shown in JSON format with _"result"_ as key
+
+![Positive Review Sample](https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Positive_review.png)
+
+
 
 ## Setup & Installation
 To run this project, you need to clone this repository in your local system
