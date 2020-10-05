@@ -23,12 +23,13 @@ This Project is created with:
 * Postman
 
 ## Illustrations
-* Below are the three images for three different categories of user input namely, Positive, Negative & Irrelevant review. 
+* Below are the three images _(Fig. 1, Fig. 2, Fig. 3)_ for three different categories of user input namely, Positive, Negative & Irrelevant review. 
 * The input data is taken in JSON format with _"input_data"_ as key.
 * Similarly the corresponding output is shown in JSON format with _"result"_ as key
 
 <p align="center">
   <img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Positive_review.png" alt="Positive Review Sample API"  width="700" height="400"/>
+  .caption[**Fig. 1:** Image caption]
   <br>
   <em>Fig. 1: Positive Review Sample API</em>
 </p>
