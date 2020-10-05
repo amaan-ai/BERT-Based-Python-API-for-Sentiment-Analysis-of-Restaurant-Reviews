@@ -27,7 +27,9 @@ This Project is created with:
 * The input data is taken in JSON format with _"input_data"_ as key.
 * Similarly the corresponding output is shown in JSON format with _"result"_ as key
 
-<img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Positive_review.png" alt="Positive Review Sample API" width="300" height="200"/>
+<p align="center">
+<img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Positive_review.png" alt="Positive Review Sample API"  width="600" height="400"/>
+</p>
 
 
 ## Setup & Installation
