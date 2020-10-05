@@ -3,6 +3,7 @@
 ## Table of contents
 * [Motivation](#motivation)
 * [Technologies & Framework](#technologies-&-framework)
+* [Illustrations](#Illustrations)
 * [Setup & Installation](#setup-&-installation)
 
 ## Motivation
@@ -20,6 +21,11 @@ This Project is created with:
 * Machine Learning
 * Flask
 * Postman
+
+## Illustrations
+* Below are the three images for three different categories of user input namely, Positive, Negative & Irrelevant review. 
+* The input data is taken in JSON format with "input_data" as key.
+* Similarly the corresponding output is shown in JSON format with "result" as key
 
 ## Setup & Installation
 To run this project, you need to clone this repository in your local system
