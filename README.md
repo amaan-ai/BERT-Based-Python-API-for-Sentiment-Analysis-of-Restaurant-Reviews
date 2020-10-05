@@ -71,8 +71,10 @@ To run this project, you first need to clone this repository in your local syste
 #### Step 3
 * Export **PYTHONPATH** to the cloned directory address:
   ```
-  (proj_env)$ export PYTHONPATH="<path>/Restaurant-Reviews-Sentiment-Analysis"
+  (proj_env)$ export PYTHONPATH="<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis"
   ```
+  (Here, <your_custom_path> is the address where the Restaurant-Reviews-Sentiment-Analysis repository has been cloned)
+  
 * You need to change the PATH in two _.py_ files namely : _main_file.py_ &  _server.py_ . I will update the _config file_ for changing PATH without any difficulty in the next update.  
   ```
   In main_file.py:
@@ -101,5 +103,6 @@ To run this project, you first need to clone this repository in your local syste
 * Refer Fig. 1, Fig. 2 and Fig. 3 for Input/Output JSON format
 
 <br>
-**Congratulations!** All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
+
+***Congratulations!*** All done... this project should work smoothly. Incase of any doubts, feel free to contact me. I'll reply as soon as possible.
     
