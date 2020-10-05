@@ -13,10 +13,10 @@ Currently, there isn't any system to validate the reviews i.e. whether a custome
 * This project nudges customers to write relevant reviews using **_Natural Language Processing_** and **_Machine Learning_** with end-to-end API call using _Flask_ & _Python_.
 * Furthermore, it classifies the reviews into positive, negative & irrelevant reviews. Thus, helping restaurants to get insights on customer experience.
 
-## Technologies
-Project is created with:
+## Technologies & Framework 
+This Project is created with:
 * Python3.7 
-* Flask
 * BERT : _(bert-base-nli-mean-tokens)_
 * Machine Learning Model : _(Naive Bayes)_
+* Flask
 * Postman
