@@ -73,3 +73,14 @@ To run this project, you first need to clone this repository in your local syste
   ```
   >> export PYTHONPATH="<path>/Restaurant-Reviews-Sentiment-Analysis"
   ```
+* You need to change the PATH in two _.py_ files namely : lines (4, 19, 23, 24) of _main_file.py_ & line 4 of _server.py_ . I will update the _config file_ for changing PATH without any difficulty in the next update.  
+  ```
+  In main_file.py:
+    (line 4) : sys.path.append(<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis)
+    (line 19): filename   = <your_custom_path>/Restaurant-Reviews-Sentiment-Analysis/Train_data_BERT_Embeddings/RR_Positive_Train_data_Bert_embeddings.sav
+    (line 23): filename_2 = <your_custom_path>/Restaurant-Reviews-Sentiment-Analysis/Train_data_BERT_Embeddings/RR_Positive_Train_data_Bert_embeddings.sav
+    (line 24): filename_3 = <your_custom_path>/Restaurant-Reviews-Sentiment-Analysis/Train_data_BERT_Embeddings/RR_Negative_Train_data_Bert_embeddings.sav
+    
+  In server.py:
+    (line 4) : sys.path.append(<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis)
+  ```
