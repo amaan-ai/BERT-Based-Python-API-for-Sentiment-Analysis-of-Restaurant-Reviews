@@ -16,7 +16,7 @@ Currently, there isn't any system to validate the reviews i.e. whether a custome
 ## Technologies & Framework 
 This Project is created with:
 * Python3.7 
-* BERT : _(bert-base-nli-mean-tokens)_
-* Machine Learning Model : _(Naive Bayes)_
+* BERT
+* Machine Learning
 * Flask
 * Postman
