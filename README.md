@@ -3,7 +3,7 @@
 ## Table of contents
 * [Motivation](#Motivation)
 * [Technologies](#Technologies)
-* [Setup & Installation](#Setup & Installation)
+* [Setup & Installation](#Setup-&-Installation)
 
 ## Motivation
 * Almost all restaurants have review system to take input from their customers about food and services. Here, a customer either writes about their experience or gives star ratings.
