@@ -3,7 +3,7 @@
 ## Table of contents
 * [Motivation](#Motivation)
 * [Technologies](#Technologies)
-* [Setup](#Setup)
+* [Setup & Installation](#Setup & Installation)
 
 ## Motivation
 * Almost all restaurants have review system to take input from their customers about food and services. Here, a customer either writes about their experience or gives star ratings.
@@ -21,5 +21,5 @@ This Project is created with:
 * Flask
 * Postman
 
-## Setup
+## Setup & Installation
 To run this project, you need to clone this repository in your local system
