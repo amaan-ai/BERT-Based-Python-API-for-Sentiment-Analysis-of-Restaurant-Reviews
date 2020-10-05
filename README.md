@@ -23,7 +23,7 @@ This Project is created with:
 * Postman
 
 ## Illustrations
-* Below are the three images _(Fig. 1, Fig. 2, Fig. 3)_ for three different categories of user input namely, Positive, Negative & Irrelevant review. 
+* Below are the three images (Fig. 1, Fig. 2, Fig. 3) for three different categories of user input namely, Positive, Negative & Irrelevant review. 
 * The input data is taken in JSON format with _"input_data"_ as key.
 * Similarly the corresponding output is shown in JSON format with _"result"_ as key
 
