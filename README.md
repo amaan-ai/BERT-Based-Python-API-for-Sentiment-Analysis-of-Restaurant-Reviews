@@ -93,7 +93,7 @@ To run this project, you first need to clone this repository in your local syste
 <br>
 
 #### Step 4
-* Go inside: <your_custom_path/Restaurant-Reviews-Sentiment-Analysis> directory and write the below mentioned command:
+* Go inside: <your_custom_path/Restaurant-Reviews-Sentiment-Analysis> directory through terminal and write the below mentioned command:
   ```
   (proj_env)$ python server.py
   ```
@@ -104,7 +104,7 @@ To run this project, you first need to clone this repository in your local syste
   ```
   http://127.0.0.1:7000/validate
   ```
-* Refer Fig. 1, Fig. 2 and Fig. 3 for Input/Output JSON format
+* Refer Fig. 1, Fig. 2 and Fig. 3 for Input JSON format and click on **Send**, you'll get the desired results.
 
 <br>
 
