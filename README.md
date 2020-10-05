@@ -28,8 +28,23 @@ This Project is created with:
 * Similarly the corresponding output is shown in JSON format with _"result"_ as key
 
 <p align="center">
-<img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Positive_review.png" alt="Positive Review Sample API"  width="600" height="400"/>
+  <img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Positive_review.png" alt="Positive Review Sample API"  width="600" height="400"/>
+  <br>
+  <em>Fig. 1: Positive Review Sample API</em>
 </p>
+<br>
+<p align="center">
+  <img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Negative_review.png" alt="Negative Review Sample API"  width="600" height="400"/>
+  <br>
+  <em>Fig. 2: Negative Review Sample API</em>
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/amaan-ai/Restaurant-Reviews-Sentiment-Analysis/blob/master/images/Irrelevant_review.png" alt="Irrelevant Review Sample API"  width="600" height="400"/>
+  <br>
+  <em>Fig. 3: Irrelevant Review Sample API</em>
+</p>
+
 
 
 ## Setup & Installation
