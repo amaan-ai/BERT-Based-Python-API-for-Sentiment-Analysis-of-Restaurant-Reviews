@@ -79,7 +79,7 @@ To run this project, you first need to clone this repository in your local syste
   ```
   (Here, <your_custom_path> is the address where the Restaurant-Reviews-Sentiment-Analysis repository has been cloned)
   
-* You need to change the PATH in two _.py_ files namely : _main_file.py_ &  _server.py_ . I will update the _config file_ for changing PATH without any difficulty in the next update.  
+* You need to change the PATH in two _.py_ files namely : _main_file.py_ &  _server.py_ . I will update the _config.ini file_ for changing PATH without any difficulty in the next update.  
   ```
   In main_file.py:
     (line 4) : sys.path.append(<your_custom_path>/Restaurant-Reviews-Sentiment-Analysis)
