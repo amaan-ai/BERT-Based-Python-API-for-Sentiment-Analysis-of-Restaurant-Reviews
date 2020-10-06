@@ -93,14 +93,14 @@ To run this project, you first need to clone this repository in your local syste
 <br>
 
 #### Step 4
-* Go inside: <your_custom_path/Restaurant-Reviews-Sentiment-Analysis> directory through terminal and write the below mentioned command:
+* Go inside: <your_custom_path/Restaurant-Reviews-Sentiment-Analysis> directory through terminal and write the below mentioned command to start the project:
   ```
   (proj_env)$ python server.py
   ```
 
 #### Step 5
-* Install **Postman** or any other API client for sending and receiving API calls.
-* Start Postman,go to POST request and paste the below mentioned URL:
+* <a href="https://www.postman.com/downloads/">Download</a> and install **Postman** or any other API client for sending and receiving API calls.
+* Start Postman, go to POST request and paste the below mentioned URL:
   ```
   http://127.0.0.1:7000/validate
   ```
