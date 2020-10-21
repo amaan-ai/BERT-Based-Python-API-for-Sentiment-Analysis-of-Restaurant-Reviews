@@ -1,5 +1,3 @@
-# @author: Md Amaan Haque
-
 import sys
 sys.path.append("/home/ubuntu/Files/Restaurant_Reviews/Restaurant-Reviews-Sentiment-Analysis")
 
