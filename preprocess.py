@@ -1,5 +1,3 @@
-# @author: Md Amaan Haque
-
 import re
 
 class clean:
