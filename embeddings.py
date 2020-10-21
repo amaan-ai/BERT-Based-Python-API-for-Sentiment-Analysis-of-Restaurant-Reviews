@@ -1,5 +1,3 @@
-
-
 # This file is for getting the BERT embeddings of 'input_list' containg single 'text'
 
 import pandas as pd
