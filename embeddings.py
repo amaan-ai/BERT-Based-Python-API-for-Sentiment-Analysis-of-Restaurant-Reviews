@@ -1,4 +1,4 @@
-# @author: Md Amaan Haque
+
 
 # This file is for getting the BERT embeddings of 'input_list' containg single 'text'
 
