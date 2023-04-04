@@ -1,4 +1,4 @@
-# Restaurant-Reviews-Sentiment-Analysis
+# BERT-Based Python API for Sentiment Analysis of Restaurant Reviews
 <a id="top"></a>
 ## Table of contents
 * <a href="#motivation">Motivation</a>
